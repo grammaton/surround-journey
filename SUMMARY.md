@@ -5,6 +5,6 @@
   * [S. Pietro in Vincoli](2009/s-pietro-in-vincoli.md)
 * [2010](2010.md)
   * [Surround Journey](2010/surround-journey.md)
-  * [Surround in Aprilia](2010/surround-aprilia.md)
+  * [Surround in Aprilia](2010/surround-in-aprilia.md)
 * [2012](2012.md)
 * [2013](2013.md)
