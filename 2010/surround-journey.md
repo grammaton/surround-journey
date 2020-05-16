@@ -1,7 +1,8 @@
-# Surround Journey
 ---
 description: First Surround Recording Session at Conservatorio Santa Cecilia. Rome. 11/03/2010
 ---
+
+# Surround Journey
 
 ![](https://raw.githubusercontent.com/grammaton/surround-journey/master/2010/2010-03-11-surround-journey/photos/2010-03-11-DSC_1368.jpg)
 ![](https://raw.githubusercontent.com/grammaton/surround-journey/master/2010/2010-03-11-surround-journey/photos/2010-03-11-DSC_1371.jpg)

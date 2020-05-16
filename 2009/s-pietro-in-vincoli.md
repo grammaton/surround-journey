@@ -1,7 +1,8 @@
-# S. Pietro in Vincoli
 ---
 description: Recording Session @ S. Pietro in Vincoli. Rome.
 ---
+
+# S. Pietro in Vincoli
 
 ![](https://raw.githubusercontent.com/grammaton/surround-journey/master/2009/2009-06-04-surround-ingegneria/photos/2009-06-04-DSC_7179.jpg)
 ![](https://raw.githubusercontent.com/grammaton/surround-journey/master/2009/2009-06-04-surround-ingegneria/photos/2009-06-04-DSC_7180.jpg)

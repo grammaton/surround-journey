@@ -1,7 +1,8 @@
-# Surround in Aprilia
 ---
 description: Workshop and listening session @ Zingali. Aprilia.
 ---
+
+# Surround in Aprilia
 
 ![](https://raw.githubusercontent.com/grammaton/surround-journey/master/2010/2010-05-22-surround-aprilia/photos/2010-05-22-_DSC3078.jpg)
 ![](https://raw.githubusercontent.com/grammaton/surround-journey/master/2010/2010-05-22-surround-aprilia/photos/2010-05-22-_DSC3080.jpg)
